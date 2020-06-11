@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41932a53-524e-4777-8e89-0393818a012e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="Provider.testSendMessage" />
+    </enabled-run-configurations>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\maven\apache-maven-3.6.3-bin\maven_repos" />
+        <option name="mavenHome" value="F:/maven/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\maven\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cq3dDhVCWgOpIfFimpsb4rvUO2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="topics" />
+      <recent name="direct" />
+      <recent name="fanout" />
+      <recent name="workquene" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Provider">
+    <configuration name="Customer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="direct.Customer1" />
+      <module name="Maven_rabbitMq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="direct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Customer2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="direct.Customer2" />
+      <module name="Maven_rabbitMq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="direct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Provider (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fanout.Provider" />
+      <module name="Maven_rabbitMq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fanout.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Provider (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="direct.Provider" />
+      <module name="Maven_rabbitMq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="direct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Provider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topics.Provider" />
+      <module name="Maven_rabbitMq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="topics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Provider" />
+        <item itemvalue="Application.Provider (2)" />
+        <item itemvalue="Application.Customer1" />
+        <item itemvalue="Application.Customer2" />
+        <item itemvalue="Application.Provider (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41932a53-524e-4777-8e89-0393818a012e" name="Default Changelist" comment="" />
+      <created>1591242381250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591242381250</updated>
+      <workItem from="1591242384012" duration="109000" />
+      <workItem from="1591242497981" duration="9738000" />
+      <workItem from="1591319533152" duration="10676000" />
+      <workItem from="1591588104707" duration="2015000" />
+      <workItem from="1591666058110" duration="10617000" />
+      <workItem from="1591838480628" duration="986000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="241" y="15" key="#Customer.test" timestamp="1591261821723">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="241" y="15" key="#Customer.test/0.0.1280.680@0.0.1280.680" timestamp="1591261821723" />
+    <state x="228" y="17" key="#Provider.testSendMessage" timestamp="1591261884709">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="228" y="17" key="#Provider.testSendMessage/0.0.1280.680@0.0.1280.680" timestamp="1591261884709" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591261944474">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1591261944474" />
+    <state x="535" y="59" key="#com.intellij.ide.util.MemberChooser" timestamp="1591778209276">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1591345930676" />
+    <state x="535" y="59" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1591778209276" />
+    <state width="1493" height="245" key="GridCell.Tab.0.bottom" timestamp="1591788507769">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="241" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1591349562547" />
+    <state width="1493" height="245" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591788507769" />
+    <state width="1493" height="245" key="GridCell.Tab.0.center" timestamp="1591788507768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="241" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1591349562546" />
+    <state width="1493" height="245" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591788507768" />
+    <state width="1493" height="245" key="GridCell.Tab.0.left" timestamp="1591788507768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="241" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1591349562546" />
+    <state width="1493" height="245" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591788507768" />
+    <state width="1493" height="245" key="GridCell.Tab.0.right" timestamp="1591788507768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="241" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1591349562546" />
+    <state width="1493" height="245" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591788507768" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1591600854152">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1591600854152" />
+    <state x="362" y="82" width="561" height="524" key="StructurePopup" timestamp="1591252344010">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="362" y="82" width="561" height="524" key="StructurePopup/0.0.1280.680@0.0.1280.680" timestamp="1591252344010" />
+    <state x="404" y="205" key="com.intellij.ide.util.TipDialog" timestamp="1591838855293">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1591319532143" />
+    <state x="404" y="205" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1591838855293" />
+    <state x="321" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591250758937">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="321" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680@0.0.1280.680" timestamp="1591250758937" />
+    <state x="364" y="1" width="807" height="822" key="search.everywhere.popup" timestamp="1591777817504">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1591253179507" />
+    <state x="364" y="1" width="807" height="822" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1591777817504" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/workquene/Customer2.java</url>
+          <line>9</line>
+          <properties class="workquene.Customer2" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
